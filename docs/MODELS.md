@@ -4,6 +4,7 @@
 
 - id
 - name
+- slug
 - description
 
 ## Project
@@ -13,22 +14,12 @@
 - slug
 - description
 
-## ProjectMedia
-
-- project_id
-- media_id
-
 ## Media
 
 - id
 - file
 - alt
 - caption
-
-## PostMedia
-
-- post_id
-- media_id
 
 ## BlogPost
 
