@@ -35,3 +35,8 @@
 - `/admin/blog/:article/modifier`
 - `/admin/blog/:article/details`
 - `/admin/blog/:article/supprimer`
+
+
+- `/admin/medias`
+- `/admin/medias/ajouter`
+- `/admin/medias/:id/supprimer`
