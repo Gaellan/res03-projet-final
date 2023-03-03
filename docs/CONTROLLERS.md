@@ -52,4 +52,7 @@
 ### Routes privées
 
 - `/admin/blog`
-- `/admin/blog/:article`
+- `/admin/blog/ajouter`
+- `/admin/blog/:article/modifier`
+- `/admin/blog/:article/details`
+- `/admin/blog/:article/supprimer`
