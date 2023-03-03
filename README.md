@@ -1,5 +1,8 @@
 # res03-projet-final
 
-## Le but
+Ceci est un repository de démonstration pour un projet fictif.
 
-Repository de démonstration pour voir l'organisation d'un vrai projet.
+## Le Projet
+
+Site vitrine d'une agence web avec demande de devis, présentation des projets, de l'entreprise, de l'équipe et blog de l'entreprise.
+
